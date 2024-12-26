@@ -1,0 +1,20 @@
+[
+  {
+    "ContainingType": "IAquinoConfeitaria.Routes.ClientRoutes\u002B\u003C\u003Ec",
+    "Method": "\u003CClientRoute\u003Eb__0_0",
+    "RelativePath": "client",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "IAquinoConfeitaria.Models.ClientModel",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
