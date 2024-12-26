@@ -1,0 +1,6 @@
+@IAquinoConfeitaria_HostAddress = http://localhost:5296
+
+GET {{IAquinoConfeitaria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
