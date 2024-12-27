@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IAquinoConfeitaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e152dbf27d259e0651132ec61b220ee793e1875")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b40833491af0daa97ce471165fdfc16d93cc0d75")]
 [assembly: System.Reflection.AssemblyProductAttribute("IAquinoConfeitaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IAquinoConfeitaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

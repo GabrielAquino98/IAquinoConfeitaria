@@ -66,7 +66,6 @@ C:\IAquinoConfeitaria\IAquinoConfeitaria\BackEnd\WebAPI\IAquinoConfeitaria\obj\D
 C:\IAquinoConfeitaria\IAquinoConfeitaria\BackEnd\WebAPI\IAquinoConfeitaria\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IAquinoConfeitaria.props
 C:\IAquinoConfeitaria\IAquinoConfeitaria\BackEnd\WebAPI\IAquinoConfeitaria\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IAquinoConfeitaria.props
 C:\IAquinoConfeitaria\IAquinoConfeitaria\BackEnd\WebAPI\IAquinoConfeitaria\obj\Debug\net8.0\staticwebassets.pack.json
-C:\IAquinoConfeitaria\IAquinoConfeitaria\BackEnd\WebAPI\IAquinoConfeitaria\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\IAquinoConfeitaria\IAquinoConfeitaria\BackEnd\WebAPI\IAquinoConfeitaria\obj\Debug\net8.0\IAquinoC.7EE0B147.Up2Date
 C:\IAquinoConfeitaria\IAquinoConfeitaria\BackEnd\WebAPI\IAquinoConfeitaria\obj\Debug\net8.0\IAquinoConfeitaria.dll
 C:\IAquinoConfeitaria\IAquinoConfeitaria\BackEnd\WebAPI\IAquinoConfeitaria\obj\Debug\net8.0\refint\IAquinoConfeitaria.dll
@@ -174,3 +173,4 @@ C:\IAquinoConfeitaria\IAquinoConfeitaria\BackEnd\WebAPI\IAquinoConfeitaria\bin\D
 C:\IAquinoConfeitaria\IAquinoConfeitaria\BackEnd\WebAPI\IAquinoConfeitaria\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\IAquinoConfeitaria\IAquinoConfeitaria\BackEnd\WebAPI\IAquinoConfeitaria\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\IAquinoConfeitaria\IAquinoConfeitaria\BackEnd\WebAPI\IAquinoConfeitaria\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\IAquinoConfeitaria\IAquinoConfeitaria\BackEnd\WebAPI\IAquinoConfeitaria\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

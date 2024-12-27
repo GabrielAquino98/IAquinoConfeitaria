@@ -12,6 +12,10 @@
             Fidelity = fidelity;
         }
 
+        ClientModel()
+        {
+        }
+
         public Guid Id { get; init; }
         public string Name { get; set; }
         public string Telefone { get; set; }
