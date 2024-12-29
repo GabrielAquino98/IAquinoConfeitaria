@@ -6,6 +6,6 @@
         public string Name { get; set; }
         public string Description { get; set; }
         public string Price { get; set; }
-        public List<string> Ingredients { get; set; }
+        public List<IngredientModel> Ingredients { get; set; }
     }
 }

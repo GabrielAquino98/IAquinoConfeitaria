@@ -1,8 +1,8 @@
 ﻿namespace IAquinoConfeitaria.Models
 {
-    public class CupomModel
+    public class CouponModel
     {
-        public CupomModel(string code, string description, string priceOff, ClientModel client, DateTime validityData)
+        public CouponModel(string code, string description, string priceOff, ClientModel client, DateTime validityData)
         {
             Id = new Guid();
             Code = code;
@@ -12,7 +12,7 @@
             ValidityData = validityData;
         }
 
-        public CupomModel() { }
+        public CouponModel() { }
 
         public Guid Id { get; init; }
         public string Code { get; set; }

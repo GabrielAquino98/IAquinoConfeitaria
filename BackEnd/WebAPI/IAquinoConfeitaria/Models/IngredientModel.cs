@@ -4,7 +4,7 @@
     {
         public IngredientModel(string name, string description, string price, decimal qttUsedPerProduct, decimal qttInStock)
         {
-            Id = new Guid(name);
+            Id = new Guid();
             Name = name;
             Description = description;
             Price = price;

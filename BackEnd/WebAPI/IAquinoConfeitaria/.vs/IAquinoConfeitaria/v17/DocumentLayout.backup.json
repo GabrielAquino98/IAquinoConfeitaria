@@ -3,52 +3,12 @@
   "WorkspaceRootPath": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|c:\\iaquinoconfeitaria\\iaquinoconfeitaria\\backend\\webapi\\iaquinoconfeitaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|c:\\iaquinoconfeitaria\\iaquinoconfeitaria\\backend\\webapi\\iaquinoconfeitaria\\migrations\\20241226161829_adjusting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|solutionrelative:migrations\\20241226161829_adjusting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|c:\\iaquinoconfeitaria\\iaquinoconfeitaria\\backend\\webapi\\iaquinoconfeitaria\\migrations\\20241226161012_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|solutionrelative:migrations\\20241226161012_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|c:\\iaquinoconfeitaria\\iaquinoconfeitaria\\backend\\webapi\\iaquinoconfeitaria\\migrations\\20241226161012_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|solutionrelative:migrations\\20241226161012_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|c:\\iaquinoconfeitaria\\iaquinoconfeitaria\\backend\\webapi\\iaquinoconfeitaria\\migrations\\20241226161829_adjusting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|solutionrelative:migrations\\20241226161829_adjusting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|c:\\iaquinoconfeitaria\\iaquinoconfeitaria\\backend\\webapi\\iaquinoconfeitaria\\migrations\\clientcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|solutionrelative:migrations\\clientcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|c:\\iaquinoconfeitaria\\iaquinoconfeitaria\\backend\\webapi\\iaquinoconfeitaria\\data\\webapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|solutionrelative:data\\webapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|c:\\iaquinoconfeitaria\\iaquinoconfeitaria\\backend\\webapi\\iaquinoconfeitaria\\models\\cupommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|solutionrelative:models\\cupommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|c:\\iaquinoconfeitaria\\iaquinoconfeitaria\\backend\\webapi\\iaquinoconfeitaria\\models\\ingredientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|solutionrelative:models\\ingredientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|c:\\iaquinoconfeitaria\\iaquinoconfeitaria\\backend\\webapi\\iaquinoconfeitaria\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|solutionrelative:models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|c:\\iaquinoconfeitaria\\iaquinoconfeitaria\\backend\\webapi\\iaquinoconfeitaria\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|solutionrelative:models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|c:\\iaquinoconfeitaria\\iaquinoconfeitaria\\backend\\webapi\\iaquinoconfeitaria\\models\\clientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|solutionrelative:models\\clientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|c:\\iaquinoconfeitaria\\iaquinoconfeitaria\\backend\\webapi\\iaquinoconfeitaria\\models\\itenbuymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6635DB-08DD-4D02-A89E-F08491D196E2}|IAquinoConfeitaria.csproj|solutionrelative:models\\itenbuymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,157 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20241226161829_Adjusting.Designer.cs",
-              "DocumentMoniker": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Migrations\\20241226161829_Adjusting.Designer.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241226161829_Adjusting.Designer.cs",
-              "ToolTip": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Migrations\\20241226161829_Adjusting.Designer.cs",
-              "RelativeToolTip": "Migrations\\20241226161829_Adjusting.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowAwAAAAjAAAAAAAAAA==",
+              "Title": "ItenBuyModel.cs",
+              "DocumentMoniker": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Models\\ItenBuyModel.cs",
+              "RelativeDocumentMoniker": "Models\\ItenBuyModel.cs",
+              "ToolTip": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Models\\ItenBuyModel.cs",
+              "RelativeToolTip": "Models\\ItenBuyModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T13:47:11.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241226161012_Initial.Designer.cs",
-              "DocumentMoniker": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Migrations\\20241226161012_Initial.Designer.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241226161012_Initial.Designer.cs",
-              "ToolTip": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Migrations\\20241226161012_Initial.Designer.cs",
-              "RelativeToolTip": "Migrations\\20241226161012_Initial.Designer.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAwwBQAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T13:46:52.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20241226161012_Initial.cs",
-              "DocumentMoniker": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Migrations\\20241226161012_Initial.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241226161012_Initial.cs",
-              "ToolTip": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Migrations\\20241226161012_Initial.cs",
-              "RelativeToolTip": "Migrations\\20241226161012_Initial.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T13:46:38.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20241226161829_Adjusting.cs",
-              "DocumentMoniker": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Migrations\\20241226161829_Adjusting.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241226161829_Adjusting.cs",
-              "ToolTip": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Migrations\\20241226161829_Adjusting.cs",
-              "RelativeToolTip": "Migrations\\20241226161829_Adjusting.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T13:46:31.288Z",
+              "WhenOpened": "2024-12-28T02:16:17.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T16:00:43.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClientContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Migrations\\ClientContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ClientContextModelSnapshot.cs",
-              "ToolTip": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Migrations\\ClientContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ClientContextModelSnapshot.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T13:46:04.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CupomModel.cs",
-              "DocumentMoniker": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Models\\CupomModel.cs",
-              "RelativeDocumentMoniker": "Models\\CupomModel.cs",
-              "ToolTip": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Models\\CupomModel.cs",
-              "RelativeToolTip": "Models\\CupomModel.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T13:39:25.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IngredientModel.cs",
-              "DocumentMoniker": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Models\\IngredientModel.cs",
-              "RelativeDocumentMoniker": "Models\\IngredientModel.cs",
-              "ToolTip": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Models\\IngredientModel.cs",
-              "RelativeToolTip": "Models\\IngredientModel.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T13:12:03.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductModel.cs",
-              "DocumentMoniker": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Models\\ProductModel.cs",
-              "RelativeDocumentMoniker": "Models\\ProductModel.cs",
-              "ToolTip": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Models\\ProductModel.cs",
-              "RelativeToolTip": "Models\\ProductModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T13:09:14.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrderModel.cs",
-              "DocumentMoniker": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Models\\OrderModel.cs",
-              "RelativeDocumentMoniker": "Models\\OrderModel.cs",
-              "ToolTip": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Models\\OrderModel.cs",
-              "RelativeToolTip": "Models\\OrderModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T13:07:13.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ClientModel.cs",
-              "DocumentMoniker": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Models\\ClientModel.cs",
-              "RelativeDocumentMoniker": "Models\\ClientModel.cs",
-              "ToolTip": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Models\\ClientModel.cs",
-              "RelativeToolTip": "Models\\ClientModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T16:03:57.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "WebApiContext.cs",
               "DocumentMoniker": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Data\\WebApiContext.cs",
               "RelativeDocumentMoniker": "Data\\WebApiContext.cs",
               "ToolTip": "C:\\IAquinoConfeitaria\\IAquinoConfeitaria\\BackEnd\\WebAPI\\IAquinoConfeitaria\\Data\\WebApiContext.cs",
               "RelativeToolTip": "Data\\WebApiContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T15:47:31.332Z",
+              "WhenOpened": "2024-12-28T02:14:50.96Z",
               "EditorCaption": ""
             }
           ]
