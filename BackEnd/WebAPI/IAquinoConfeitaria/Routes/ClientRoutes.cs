@@ -1,4 +1,6 @@
-﻿using IAquinoConfeitaria.Models;
+﻿using IAquinoConfeitaria.Data;
+using IAquinoConfeitaria.Models;
+using IAquinoConfeitaria.Models.Request;
 
 namespace IAquinoConfeitaria.Routes
 {
@@ -6,7 +8,15 @@ namespace IAquinoConfeitaria.Routes
     {
         public static void ClientRoute(this WebApplication app)
         {
-            app.MapGet(pattern: "client", () => new ClientModel("Gabriel","(16)997901419","CPF", new DateTime(1998,10,20), 0));
+            var route =  app.MapGroup("client");
+
+            route.MapPost("", async (ClientRequest req, WebApiContext context) =>
+            {
+                var client = new ClientModel(req.name, req.telefone, req.cpf, req.birthDay);
+                await context.AddAsync(client);
+
+                await context.SaveChangesAsync();
+            });
         }
     }
 }

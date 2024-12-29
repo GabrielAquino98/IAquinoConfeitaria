@@ -6,20 +6,23 @@
   },
   "paths": {
     "/client": {
-      "get": {
+      "post": {
         "tags": [
           "IAquinoConfeitaria"
         ],
-        "responses": {
-          "200": {
-            "description": "OK",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/ClientModel"
-                }
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientRequest"
               }
             }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
           }
         }
       }
@@ -27,13 +30,9 @@
   },
   "components": {
     "schemas": {
-      "ClientModel": {
+      "ClientRequest": {
         "type": "object",
         "properties": {
-          "id": {
-            "type": "string",
-            "format": "uuid"
-          },
           "name": {
             "type": "string",
             "nullable": true
@@ -49,10 +48,6 @@
           "birthDay": {
             "type": "string",
             "format": "date-time"
-          },
-          "fidelity": {
-            "type": "integer",
-            "format": "int32"
           }
         },
         "additionalProperties": false

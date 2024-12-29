@@ -2,17 +2,21 @@
   {
     "ContainingType": "IAquinoConfeitaria.Routes.ClientRoutes\u002B\u003C\u003Ec",
     "Method": "\u003CClientRoute\u003Eb__0_0",
-    "RelativePath": "client",
-    "HttpMethod": "GET",
+    "RelativePath": "client/",
+    "HttpMethod": "POST",
     "IsController": false,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "IAquinoConfeitaria.Models.Request.ClientRequest",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
-        "Type": "IAquinoConfeitaria.Models.ClientModel",
-        "MediaTypes": [
-          "application/json"
-        ],
+        "Type": "System.Void",
+        "MediaTypes": [],
         "StatusCode": 200
       }
     ]

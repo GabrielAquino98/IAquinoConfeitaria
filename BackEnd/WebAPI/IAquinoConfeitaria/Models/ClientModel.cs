@@ -2,14 +2,14 @@
 {
     public class ClientModel
     {
-        public ClientModel(string name, string telefone, string cpf, DateTime birthDay, int fidelity)
+        public ClientModel(string name, string telefone, string cpf, DateTime birthDay)
         {
             Id = Guid.NewGuid();
             Name = name;
             Telefone = telefone;
             CPF = cpf;
             BirthDay = birthDay;
-            Fidelity = fidelity;
+            Fidelity = 0;
         }
 
         ClientModel()
@@ -22,7 +22,7 @@
         public string CPF { get; set; }
         public DateTime BirthDay { get; set; }
 
-        public int Fidelity { get; set; }
+        public int Fidelity { get; init; }
 
     }
 }
