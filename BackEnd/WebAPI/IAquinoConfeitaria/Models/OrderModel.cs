@@ -4,6 +4,30 @@ namespace IAquinoConfeitaria.Models
 {
     public class OrderModel
     {
+        public OrderModel(int number, List<ProductModel> products, ClientModel client, 
+                            DateTime deliveryDate, DateTime orderDate, bool paid, 
+                            decimal totalValue, decimal valueReceived, DateTime dateReceived, 
+                            CouponModel? coupon, decimal? priceOff, AddressModel? address, 
+                            OrderStatus status)
+        {
+            Id = new Guid();
+            Number = number;
+            Products = products;
+            Client = client;
+            DeliveryDate = deliveryDate;
+            OrderDate = orderDate;
+            Paid = paid;
+            TotalValue = totalValue;
+            ValueReceived = valueReceived;
+            DateReceived = dateReceived;
+            Coupon = coupon;
+            PriceOff = priceOff;
+            Address = address;
+            Status = status;
+        }
+
+        public OrderModel() { }
+
         public Guid Id { get; init; }
         public int Number { get; set; }
         public required List<ProductModel> Products { get; set; }

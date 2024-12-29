@@ -11,12 +11,15 @@ namespace IAquinoConfeitaria.Data
         public DbSet<IngredientModel> Ingredients { get; set; }
         public DbSet<BuyModel> Buys { get; set; }
         public DbSet<ItenBuyModel> Itens { get; set; }
+        public DbSet<AddressModel> Address { get; set; }
         public DbSet<OrderModel> Orders { get; set; }
         
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlite(connectionString: "Data Source=iaquinoconf.sqlite");
             base.OnConfiguring(optionsBuilder);
         }
+
     }
 }

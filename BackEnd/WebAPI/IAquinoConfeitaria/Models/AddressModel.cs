@@ -1,4 +1,6 @@
-﻿namespace IAquinoConfeitaria.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace IAquinoConfeitaria.Models
 {
     public class AddressModel
     {
@@ -14,7 +16,8 @@
             City = city;
         }
 
-        Guid Id { get; init; }
+
+        public Guid Id { get; init; }
         public string CEP { get; set; }
         public string Street { get; set; }
         public string Number { get; set; }
