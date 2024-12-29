@@ -12,7 +12,7 @@
             Fidelity = 0;
         }
 
-        ClientModel()
+        public ClientModel()
         {
         }
 
@@ -22,7 +22,20 @@
         public string CPF { get; set; }
         public DateTime BirthDay { get; set; }
 
-        public int Fidelity { get; init; }
+        public int Fidelity { get; set; }
 
+        public void UpdateClient(string name, string telefone, string cpf, DateTime birthDay)
+        {
+            Telefone = telefone;
+            CPF = cpf;
+            BirthDay = birthDay;  
+            Name = name;
+
+        }
+
+        public void IncrementFidelity() 
+        {
+            this.Fidelity++;
+        }
     }
 }

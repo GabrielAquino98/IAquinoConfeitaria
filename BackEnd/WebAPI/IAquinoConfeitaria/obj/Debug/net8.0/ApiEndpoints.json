@@ -20,5 +20,92 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "IAquinoConfeitaria.Routes.ClientRoutes\u002B\u003C\u003Ec",
+    "Method": "\u003CClientRoute\u003Eb__0_1",
+    "RelativePath": "client/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "IAquinoConfeitaria.Routes.ClientRoutes\u002B\u003C\u003Ec",
+    "Method": "\u003CClientRoute\u003Eb__0_2",
+    "RelativePath": "client/{id:guid}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "req",
+        "Type": "IAquinoConfeitaria.Models.Request.ClientRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "IAquinoConfeitaria.Routes.ClientRoutes\u002B\u003C\u003Ec",
+    "Method": "\u003CClientRoute\u003Eb__0_4",
+    "RelativePath": "client/{id:guid}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "IAquinoConfeitaria.Routes.ClientRoutes\u002B\u003C\u003Ec",
+    "Method": "\u003CClientRoute\u003Eb__0_3",
+    "RelativePath": "client/incementFidelity/{id:guid}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
   }
 ]
